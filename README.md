@@ -17,7 +17,7 @@ The **Super Shop Management System** is a MySQL-based solution designed to manag
 ## Files in this Repository
 - **SQL Scripts:** Includes queries for handling operations like cart management, customer details, order processing, and payments.
 - **Project Proposal:** A document outlining the project goals, scope, and design.
-- **Project Report:** A detailed report on the system's development and implementation.
+- **Project Report:** A detailed report on the system's development,ER Diagram and implementation.
 
 ## Setup Instructions
 1. Clone the repository:
